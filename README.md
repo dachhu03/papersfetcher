@@ -2,13 +2,7 @@
 
 Fetch PubMed papers with at least one author from a pharmaceutical or biotech company.
 
-## 📦 Setup
 
-```bash
-git clone https://github.com/yourusername/papersfetcher.git
-cd papersfetcher
-poetry install
-```
 
 ## 🚀 Usage
 
