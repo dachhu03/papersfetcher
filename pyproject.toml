@@ -2,7 +2,7 @@
 name = "papersfetcher"
 version = "0.1.0"
 description = "Fetch PubMed papers with non-academic authors"
-authors = ["Your Name <you@example.com>"]
+authors = [" Darshan M <darshankm2003@gmail.com>"]
 readme = "README.md"
 packages = [{ include = "papersfetcher" }]
 
